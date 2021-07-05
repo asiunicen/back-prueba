@@ -16,5 +16,5 @@ router.adicionar(app);
 
 // levantar el servidor
 app.listen(port, host, () => {
-    console.log("El servidor: http://"+host+":"+port+" se ha iniciado. ");
+    console.log("El servidor: http://"+host+":"+port+" se ha iniciado correctamente. ");
 });
