@@ -12,9 +12,9 @@ git init
 ````
 
 - Agregar todos los archivos al INDEX (working directory)
-``````
+````
 git add . # o git add package.json
-````` 
+```` 
 
 - Agregar al head
 ````
