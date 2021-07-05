@@ -1,3 +1,4 @@
+const {User} = require("./../models/index");
 
 const inicio = (req, res) => {
     res.send("Hola Mundo");

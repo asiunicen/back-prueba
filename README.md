@@ -30,3 +30,8 @@ git remote add origin https://github.com/asiunicen/back-prueba.git
 ````
 git push -u origin main
 ````
+
+- PARA CLONAR UN REPOSITORIO
+````
+git clone https://github.com/asiunicen/back-prueba.git
+````
